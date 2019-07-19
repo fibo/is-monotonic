@@ -1,0 +1,26 @@
+{
+  "name": "is-monotonic",
+  "version": "1.0.0",
+  "description": "tryes to figure out if a given sequence looks increasing",
+  "main": "is-monotonic.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibo/is-monotonic.git"
+  },
+  "keywords": [
+    "sequence",
+    "trend"
+  ],
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "http://g14n.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibo/is-monotonic/issues"
+  },
+  "homepage": "https://g14n.info/is-monotonic"
+}
